@@ -1,0 +1,6 @@
+**/__pycache__/
+**/output/
+**/upload/
+*.mp4
+*.avi
+*.mov
